@@ -1,0 +1,55 @@
+{
+    "build":[
+            {"low": 238, "high":1000, "value":  500000},
+            {"low": 225, "high": 237, "value":  450000},
+            {"low": 213, "high": 224, "value":  335000},
+            {"low": 200, "high": 212, "value":  225000},
+            {"low": 188, "high": 199, "value":  115000},
+            {"low": 176, "high": 187, "value":   70000},
+            {"low": 163, "high": 175, "value":   50000},
+            {"low":   0, "high": 162, "value":   35000}
+        ],
+        "movement":[
+            {"low": 189, "high":1000, "value":  500000},
+            {"low": 179, "high": 179, "value":  450000},
+            {"low": 169, "high": 179, "value":  335000},
+            {"low": 159, "high": 168, "value":  225000},
+            {"low": 149, "high": 158, "value":  115000},
+            {"low": 139, "high": 148, "value":   70000},
+            {"low": 129, "high": 138, "value":   50000},
+            {"low":   0, "high": 128, "value":   35000}
+        ],
+        "defense":[
+            {"low": 284, "high":1000, "value": 1000000},
+            {"low": 269, "high": 283, "value":  900000},
+            {"low": 254, "high": 268, "value":  675000},
+            {"low": 239, "high": 253, "value":  450000},
+            {"low": 224, "high": 238, "value":  225000},
+            {"low": 209, "high": 223, "value":  125000},
+            {"low": 194, "high": 208, "value":   90000},
+            {"low":   0, "high": 193, "value":   60000}
+        ],
+        "offense":[
+            {"low": 284, "high":1000, "value": 1525000},
+            {"low": 269, "high": 283, "value": 1350000},
+            {"low": 254, "high": 268, "value": 1000000},
+            {"low": 239, "high": 253, "value":  675000},
+            {"low": 224, "high": 238, "value":  340000},
+            {"low": 209, "high": 223, "value":  225000},
+            {"low": 194, "high": 208, "value":  150000},
+            {"low":   0, "high": 193, "value":   85000}
+        ],
+        "potential":[
+            {"low": 229, "high":1000, "value":  525000},
+            {"low": 215, "high": 228, "value":  450000},
+            {"low": 200, "high": 214, "value":  350000},
+            {"low": 185, "high": 199, "value":  225000},
+            {"low": 170, "high": 184, "value":  112000},
+            {"low": 155, "high": 168, "value":   68000},
+            {"low": 145, "high": 154, "value":   45000},
+            {"low":   0, "high": 144, "value":   29000}           
+        ]
+}
+
+
+

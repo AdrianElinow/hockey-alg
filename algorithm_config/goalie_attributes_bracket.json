@@ -1,0 +1,47 @@
+{
+	"build":[
+        {"low": 227, "high":1000, "value":  750000},
+        {"low": 206, "high": 226, "value":  550000},
+        {"low": 186, "high": 205, "value":  415000},
+        {"low": 166, "high": 185, "value":  375000},
+        {"low": 146, "high": 165, "value":  237500},
+        {"low": 126, "high": 145, "value":  105000},
+        {"low":   0, "high": 125, "value":   95000}
+    ],
+    "movement":[
+        {"low": 227, "high":1000, "value":  750000},
+        {"low": 206, "high": 226, "value":  550000},
+        {"low": 186, "high": 205, "value":  415000},
+        {"low": 166, "high": 185, "value":  375000},
+        {"low": 146, "high": 165, "value":  237500},
+        {"low": 126, "high": 145, "value":  105000},
+        {"low":   0, "high": 125, "value":   95000}
+    ],
+    "control":[
+        {"low": 185, "high":1000, "value":  750000},
+        {"low": 179, "high": 184, "value":  550000},
+        {"low": 169, "high": 178, "value":  415000},
+        {"low": 159, "high": 168, "value":  375000},
+        {"low": 149, "high": 158, "value":  237500},
+        {"low": 139, "high": 148, "value":  105000},
+        {"low":   0, "high": 138, "value":   95000}
+    ],
+    "reaction":[
+        {"low": 234, "high": 283, "value":  750000},
+        {"low": 214, "high": 233, "value":  550000},
+        {"low": 199, "high": 213, "value":  415000},
+        {"low": 184, "high": 198, "value":  375000},
+        {"low": 169, "high": 183, "value":  237500},
+        {"low": 154, "high": 168, "value":  105000},
+        {"low":   0, "high": 153, "value":   95000}
+    ],
+    "potential":[
+        {"low": 219, "high":1000, "value":  750000},
+        {"low": 204, "high": 218, "value":  550000},
+        {"low": 190, "high": 203, "value":  415000},
+        {"low": 175, "high": 189, "value":  375000},
+        {"low": 160, "high": 174, "value":  237500},
+        {"low": 145, "high": 159, "value":  105000},
+        {"low":   0, "high": 144, "value":   95000}           
+    ]
+}

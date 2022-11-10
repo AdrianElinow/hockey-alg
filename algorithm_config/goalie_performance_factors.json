@@ -1,0 +1,14 @@
+{
+    "GP"            : 4000,
+    "STARTS"        : 4000,
+    "WINS"          : 5000,
+    "SVPCT"         : 500,
+    "GAA"           : 100000,
+    "SO"            : 15000,
+    "SAVES"         : 300,
+    "WIN%"          : 4000,
+    "AWARDS"        : 75000,
+    "PLAYOFFS"      : 25000,
+    "TOP5SVPCT"     : 300000,
+    "TOP10SVPCT"    : 150000
+}
